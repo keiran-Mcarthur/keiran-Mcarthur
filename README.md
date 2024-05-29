@@ -1,4 +1,4 @@
-[![MasterHead] (https://www.gmmspl.com/wp-content/uploads/2021/10/data-analytics.png)
+[![MasterHead](https://www.gmmspl.com/wp-content/uploads/2021/10/data-analytics.png)
 <h1 align="center">Hi 👋, I'm Keiran Mcarthur</h1>
 <h3 align="center">A passionate Data Analyst from England</h3>
 
