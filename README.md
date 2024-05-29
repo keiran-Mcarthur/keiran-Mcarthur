@@ -1,3 +1,4 @@
+[![MasterHead] (https://www.gmmspl.com/wp-content/uploads/2021/10/data-analytics.png)
 <h1 align="center">Hi 👋, I'm Keiran Mcarthur</h1>
 <h3 align="center">A passionate Data Analyst from England</h3>
 
@@ -21,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keiran-mcarthur&show_icons=true&locale=en" alt="keiran-mcarthur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keiran-mcarthur&" alt="keiran-mcarthur" /></p>
+
